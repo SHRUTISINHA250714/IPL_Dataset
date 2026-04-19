@@ -20,7 +20,9 @@ The pipeline processes raw match datasets, transforms them through multiple laye
 ---
 
 # Databricks Lakehouse and Medallion Architecture
-<img width="800" height="421" alt="image" src="https://gist.github.com/user-attachments/assets/556aa0a6-6bd9-4e81-9eca-add3d6c34326" />
+
+<img width="1208" height="631" alt="image" src="https://github.com/user-attachments/assets/f0ce6a13-b206-4b4d-97d5-e649e3218612" />
+
 
 The pipeline follows the **Medallion Architecture pattern**, widely used in Databricks environments.
 
@@ -143,7 +145,8 @@ The pipeline transforms raw IPL data into analytics datasets using **PySpark tra
 
 ### Pipeline Workflow
 
-<img width="1923" height="1023" alt="image" src="https://gist.github.com/user-attachments/assets/10976c2d-00ff-44be-991e-ae51670cf4fe" />
+<img width="1360" height="711" alt="image" src="https://github.com/user-attachments/assets/88830896-17f2-4a4d-8360-f146b00ea929" />
+
 
 
 Each stage generates **intermediate datasets used in downstream processing**.
@@ -310,7 +313,8 @@ The final stage of the project is an **interactive analytics dashboard** built u
 ### Dashboard Visualizations
 
 
-<img width="1488" height="2048" alt="image" src="https://gist.github.com/user-attachments/assets/76a6bc9a-6b2d-4450-8363-17bbc26167e8" />
+<img width="1488" height="2048" alt="image" src="https://github.com/user-attachments/assets/98070c5a-aed7-4ecf-a2ac-ad4908bb3d5c" />
+
 
 - **Team Standings**  
   Displays IPL leaderboard including rank, wins, losses, points, and net run rate.
