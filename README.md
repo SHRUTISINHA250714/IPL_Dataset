@@ -145,7 +145,8 @@ The pipeline transforms raw IPL data into analytics datasets using **PySpark tra
 
 ### Pipeline Workflow
 
-<img width="1360" height="711" alt="image" src="https://github.com/user-attachments/assets/88830896-17f2-4a4d-8360-f146b00ea929" />
+<img width="1923" height="1023" alt="image" src="https://github.com/user-attachments/assets/fd581144-35e5-48e9-b661-ca37ce8e9484" />
+
 
 
 
