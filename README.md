@@ -8,6 +8,9 @@ This project implements a **complete end-to-end analytics pipeline** using Datab
 
 The pipeline processes raw match datasets, transforms them through multiple layers using **Apache Spark**, and produces **analytics-ready datasets** that power an interactive dashboard.
 
+## Dataset
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
 ### Objectives of the Project
 
 - Implement **Databricks Lakehouse architecture**
